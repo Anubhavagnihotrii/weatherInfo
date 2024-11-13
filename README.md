@@ -14,7 +14,7 @@ The API documentation for this project is available on Postman:
 https://documenter.getpostman.com/view/39581574/2sAY52dfG4
 
 ## Prerequisites
-- **Java 17** or higher should be installed.
+- **JDK 22** or higher should be installed.
 - **Maven** (Optional) if using intellij not required
 - **MySQL** (for storing weather data)
 - **Postman** (for testing the API)
